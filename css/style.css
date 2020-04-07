@@ -5,6 +5,7 @@ body{
 .bg{
     background-size: cover;
     background-image: url('../img/background.jpg');
+    background-position: center;
 }
 .container{
     overflow: hidden;
