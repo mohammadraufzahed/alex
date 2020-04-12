@@ -3,9 +3,9 @@ body{
     color: #4e5f6f;   
 }
 .bg{
-    background-size: cover;
     background-image: url('../img/background.jpg');
     background-position: center;
+    background-size: cover;
 }
 .container{
     overflow: hidden;
@@ -42,9 +42,6 @@ body{
 .about-me{
     text-align: justify;
     padding: 10px;
-}
-.social-media ul{
-
 }
 .social-media li{
     text-align: center;
